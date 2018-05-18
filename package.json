@@ -1,0 +1,8 @@
+{
+  "name": "claps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JohnPhamous/claps.git",
+  "author": "John Pham <johnphammail@gmail.com>",
+  "license": "MIT"
+}
